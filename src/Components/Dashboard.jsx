@@ -1,12 +1,12 @@
-import React from 'react'
-import Input from './Input'
+import React from "react";
+import Input from "./Input";
 
 const Dashboard = () => {
   return (
     <>
-        <Input/>
+      <Input />
     </>
-  )
-}
+  );
+};
 
-export default Dashboard
+export default Dashboard;
